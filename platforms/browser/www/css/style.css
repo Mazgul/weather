@@ -1,0 +1,43 @@
+body {
+  font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  background: #ECE7E7;
+}
+
+.city {
+    width: 160px;
+    margin-left: 80px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+.temp {
+  font-size: xx-large;
+  margin-left: 95px;
+  font-size: 90px;
+
+}
+
+#line {
+  display:block;
+  width: 100px;
+  height: 8px;
+  color: white;
+}
+
+#currently {
+  margin-top: 20px;
+  margin-left:10px;
+  font-size:45px;
+}
+
+.horizontal-list {
+  margin-top: 100px;
+}
+
+li {
+  float: left;
+  padding: 12px;
+  font-size: x-large;
+  list-style-type: none;
+  font-weight: 700;
+} 

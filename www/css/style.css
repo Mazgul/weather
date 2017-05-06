@@ -1,0 +1,61 @@
+body {
+    font: 13px 'Open Sans', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    background: #ECE7E7;
+    background-image: url("C:/Users/Mazgul/Desktop/apka uczelnia/rainday.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.city {
+    font-size: 30px;
+    text-align: center;
+}
+
+.temp {
+    font-size: xx-large;
+    font-size: 90px;
+    text-align: center;
+    color: white;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#line {
+    display: block;
+    width: 100px;
+    height: 8px;
+    color: white;
+}
+
+#currently {
+    margin-top: 20px;
+    font-size: 45px;
+    text-align: center;
+}
+
+.horizontal-list {
+    margin: 0 auto;
+    margin-top: 70px;
+    
+    
+}
+
+li {
+    background-color: rgba(240, 248, 255, 0.7);
+    display: inline-block;
+    padding: 12px;
+    font-size: x-large;
+    list-style-type: none;
+    font-weight: 700;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 15px; 
+    margin-right: 3px; 
+    width: 81px;
+    margin-bottom: 20px;
+
+    
+}
+ul{
+    text-align: center;
+   
+}
