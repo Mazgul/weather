@@ -10,9 +10,9 @@
     <content src="index.html" />
     <access origin="*" />
     <engine name="ios" spec="~4.3.1" />
-    <plugin name="cordova-plugin-geolocation" spec="~2.4.3">
+   <plugin name="cordova-plugin-geolocation"    source="npm" spec="~2.4.3">
         <variable name="GEOLOCATION_USAGE_DESCRIPTION" value=" " />
 
     </plugin>
-    <!--<plugin name="Geolocation" value="CDVLocation" /> -->
+    <plugin name="Geolocation" value="CDVLocation" />
 </widget>
