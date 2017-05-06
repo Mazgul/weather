@@ -14,5 +14,5 @@
         <variable name="GEOLOCATION_USAGE_DESCRIPTION" value=" " />
 
     </plugin>
-    <plugin name="Geolocation" value="CDVLocation" />
+    <plugin name="cordova-plugin-geolocation" value="CDVLocation" />
 </widget>
